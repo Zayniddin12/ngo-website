@@ -1,0 +1,8 @@
+{
+  // https://nuxt.com/docs/guide/concepts/typescript
+  "compilerOptions": {
+    "verbatimModuleSyntax": false,
+    "module": "Node16"
+  },
+  "extends": "./.nuxt/tsconfig.json"
+}

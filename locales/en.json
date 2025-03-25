@@ -1,0 +1,423 @@
+{
+  "website_title": "NGO - Unified Register of Projects of the National Agency for Social Protection",
+  "login": "Enter",
+  "projects": "Projects",
+  "residents": "Residents",
+  "support_women": "Support for women",
+  "support_short": "Support",
+  "home": "Main",
+  "all_services": "All services",
+  "sum_single": "Som",
+  "support_female_gender": "Support women",
+  "support_female_gender_text": "Strengthen connections and inspire change. Unite to relive meaningful moments",
+  "default_select": "All categories",
+  "file": "File",
+  "about_the_agency": "About the agency",
+  "placeholders": {
+    "date_range": "dd.mm.yyyy-dd.mm.yyyy"
+  },
+  "all_regions": "All regions",
+  "all_districts": "All districts",
+  "print_out": "Print out",
+  "all_news": "All news",
+  "download_btn": "Download",
+  "copied": "Copied",
+  "copy": "Copy",
+  "not_found_from_search": "No results found",
+  "project_single_tab": {
+    "about": "Information about the project",
+    "about_mobile": "About",
+    "project_result": "Results",
+    "participant": "Participation applications",
+    "participant_mobile": "Applications"
+  },
+  "social_projects": "Social projects",
+  "application_submitted": "Application is submitted",
+  "start_project_time": "Project start time:",
+  "money_for_project": "Amount for the project:",
+  "source_of_budget": "Funding format:",
+  "no_project_results_title": "Project in progress!",
+  "no_project_results_desc": "After the winner is determined and the project is successfully completed, all results in the form of documents and media reports will be displayed on this page.",
+  "send_question_form": {
+    "title": "Appeal to the Director of the agency",
+    "subtitle": "Fill out the form below and send your message to the director of our agency",
+    "name_input": {
+      "label": "How to contact you?",
+      "placeholder": "Enter your name"
+    },
+    "phone_input": {
+      "label": "Phone number"
+    },
+    "question_input": {
+      "label": "Describe your question",
+      "placeholder": "Enter your question"
+    },
+    "privacy": {
+      "text": "Enter by submitting this request, you agree with the {link}",
+      "link_text": "Data processing conditions"
+    },
+    "send": "Send"
+  },
+  "resident_count": "Found: {count} residents",
+  "events_link": "Events",
+  "contact_link": "Contacts",
+  "no_project_yet": "No projects yet",
+  "no_project_yet_appear": "Projects and works performed by this company will appear here",
+  "sharh_comment": "Sharh reviews",
+  "no_comment_yet": "No comments yet",
+  "no_comment_yet_appear": "There are no reviews yet, if there are any, they will appear here",
+  "phone_num_list": "List number",
+  "bank_props": "Bank accounts",
+  "social_projects": "Social projects",
+  "events_link": "Events",
+  "share_title": "Share",
+  "remained_time": "There is still time until the end of accepting applications:",
+  "date_application": "Date of submission",
+  "completion_time": "Project completion date:",
+  "hour": "months",
+  "category": "Category",
+  "more_resident_135": "+135 more residents",
+  "grants": "Grants",
+  "subsides": "Subsidies",
+  "mission_with": "Development {mission_with_title} mission",
+  "mission_about": "Our platform is a place where everyone can contribute to creating a better world. We unite the hearts and minds of people by providing a convenient space for the implementation of social initiatives. Here you will find inspiration, support and the opportunity to turn your ideas into reality. Welcome to our warm and friendly community, where every step forward is a step towards creative change!",
+  "mission_with_title": "and support for the country's social initiatives is our main goal",
+  "support_text": "The project aims to develop and support social initiatives in the country, providing the necessary resources and assistance for the successful implementation of projects aimed at improving public life and solving its problems.",
+  "our_services_title": "What services do we provide?",
+  "our_residents_title": "How do I become a resident?",
+  "no_residents": "There are no residents",
+  "no_inetersted_resident": "So far, no one has shown interest in this resident",
+  "no_interested_projects": "So far, no one has shown interest in this project",
+  "select_location": "Select a location",
+  "our_services_subtitle": "Our services can be used by both private and public organizations and individuals",
+  "our_residents_subtitle": "Our services can be used by both private and public organizations and individuals",
+  "our_team_title": "Our team",
+  "our_team_subtitle": "The platform is managed by trusted experts in their field",
+  "partners_title": "Partners",
+  "partners_subtitle": "Our reliable partners",
+  "contact_us": "Contact us",
+  "contact_us_description": "Contact information for contacting us",
+  "support": {
+    "women": "Assistance to elderly women",
+    "contract": "Contracts for preferential students",
+    "starter": "For aspiring entrepreneurs",
+    "psychological": "Psychological support",
+    "credit": "Interest-free loan"
+  },
+  "started": "Started",
+  "completed": "Completed",
+  "in_progress": "In the process of execution",
+  "company_about": "\"IHMA\" All rights reserved, © 2011 - {year}",
+  "company_about_main": "Where dreams become projects: your platform for social development! We strive to create a community where everyone can contribute",
+  "developed_by": "Developed in",
+  "follow_news": "Subscribe to our newsletter",
+  "send_news_daily": "We send the news to your email every day",
+  "email": "Email",
+  "enter_email": "Enter your email address",
+  "send": "Send",
+  "address": "Location",
+  "event": {
+    "info": {
+      "date": "Date of the event",
+      "address": "Location"
+    },
+    "about": "About the event",
+    "requirements": "Requirements",
+    "photos": "Photo report"
+  },
+  "contact_us_main": "Contact information for contacting us",
+  "support_phone": "Phone number for support",
+  "events": {
+    "title": "Social events",
+    "subtitle": "Strengthen connections and inspire change. Unite to relive meaningful moments and achieve a lasting effect",
+    "button": "All events",
+    "short_btn": "Events"
+  },
+  "grand_and_subsidies": "Grants and subsidies",
+  "news": {
+    "title": "News",
+    "subtitle": "Stay up to date, stay ahead of events: Your source of timely updates and in-depth analysis. Uncover the stories shaping our World today",
+    "button": "All the news"
+  },
+  "platform_title": "Platform Residents",
+  "platform_description": " Join our residential community and get exclusive access to resources, mentoring support and a network of like-minded people for the successful implementation of your social projects.",
+  "resident_with": "Resident c {date}",
+  "project": "{count} projects",
+  "no_projects": "There are no projects",
+  "ball": "{count} points",
+  "feedback": "Feedback",
+  "reviews": {
+    "title": "Reviews",
+    "subtitle": "You can view reviews of organizations"
+  },
+  "common_source": "I left a review about: {name}",
+  "appeal_to_the_director": "Appeal to the Director",
+  "show_more": "Show more",
+  "place_empty": "There are no participants",
+  "all_empty": "No one has shown interest in this project yet",
+  "in_progress": "The project is in progress!",
+  "all_progress": "After determining the winner and successful completion of the project, all the results in the format of documents and media reports will be displayed on this page.",
+  "total_requests": "Total requests",
+  "statistics": {
+    "title": "Statistics",
+    "subtitle": "You confidently navigate the information space. From numbers to knowledge: Converting data into practical information",
+    "tab": {
+      "statistics_info": "Information statistics",
+      "statistics_projects": "Project statistics"
+    },
+    "chart": {
+      "title": "Statistics",
+      "version_one": "Total number of requests",
+      "version_two": "Shelter Services"
+    },
+    "section": {
+      "title": "Types of violence"
+    },
+    "service": {
+      "title": "Providing services",
+      "companies": "{count} companies",
+      "all_residents": "All residents",
+      "join_date": "Resident with {date}",
+      "items": {
+        "mental": "Mental",
+        "legal": "Legal",
+        "medical": "Medical",
+        "shelter": "Shelter Services",
+        "other": "Others"
+      }
+    },
+    "organs": "Government bodies",
+    "all_organs": "Total government agencies",
+    "organs_count_title": "Total Number of government agencies that have issued social orders",
+    "organizations": "Non-governmental non-profit organization",
+    "all_nno": "Total NGOs",
+    "nno_count_title": "Number of NGOs that have issued social orders",
+    "social_projects": "Social projects",
+    "sum_social_orders": "Amount of social orders",
+    "social_orders_count": "Amount of social orders",
+    "events_count": "Number of events held",
+    "all_divide": "Total population covered",
+    "relativity": {
+      "title": "People with disabilities",
+      "count": "Number of people with disabilities",
+      "service": "Services provided to persons with disabilities"
+    }
+  },
+  "hero_with": "With us {hero_with_title} projects become reality",
+  "hero_with_title": "Social",
+  "hero_subtitle": "Where dreams become projects: your platform for social development! We strive to create a community where everyone can contribute.",
+  "become_resident": "Become a resident",
+  "get_support": "Get support",
+  "youth_with": "Watch {youth_with_title} with us",
+  "youth_with_title": "News",
+  "become_volunteer": "Become a volunteer",
+  "become_part_volunteer": "Become a part of the volunteers",
+  "no_data": {
+    "statistics": {
+      "title": "Statistics are not available",
+      "subtitle": "Statistics are currently unavailable. Please try again."
+    }
+  },
+  "footer": {
+    "menus": {
+      "title": "Main"
+    }
+  },
+  "contact": {
+    "your_name": "Your name",
+    "enter_your_name": "Enter your name",
+    "phone_number": "Phone number",
+    "your_message": "Your message",
+    "enter_your_message": "Enter your message",
+    "enter_email": "Enter your email address",
+    "email": "Email",
+    "contact_us": "Write to us",
+    "contact_us_text": "We will contact you shortly",
+    "contact_us_title": "Necessary information to contact us",
+    "our_address": "The address of our office"
+  },
+  "org": {
+    "title": "Government organizations",
+    "subtitle": "Become our reliable partners in the implementation of projects",
+    "btn_text": "The whole list"
+  },
+  "need_help": "Do you need help?",
+  "need_help_text": "Please contact us with any question or suggestion via the support service",
+  "call_us": "Phone number for support",
+  "contact_with_us": "Contact us",
+  "about_us_btn": "Learn more about us",
+  "error_title": "Oh no, something went wrong!",
+  "error_subtitle": "We provide professional services to private and commercial clients",
+  "back_home": "To return home",
+  "public_offering": "Public offer",
+  "legal_offer": "Legal offer",
+  "terms_of_agreement": "Terms of the agreement",
+  "documents": "Documents",
+  "header": {
+    "phone": "+998 71 234 56 78",
+    "email": "Email"
+  },
+  "page": {
+    "support_women": {
+      "hero_title": "Power and Inspiration: {text} Life",
+      "hero_title_slice": "Support for women in all aspects",
+      "statistics": "Statistics on assistance to women in need",
+      "organizations": "Organizations that provide assistance to women in need"
+    },
+    "project": {
+      "title": "Projects",
+      "similar_projects": "Similar projects"
+    },
+    "resident": {
+      "title": "Platform residents",
+      "singleTitle": "Other events"
+    },
+    "subsidies": {
+      "title": "All projects"
+    },
+    "grants": {
+      "sum": "Grant amount:",
+      "date": "Expiration date"
+    }
+  },
+  "our_activities_title": "Our activities in numbers",
+  "our_activities_subtitle": "Some statistics of the work done",
+  "project_announce_title": "Project Announcements",
+  "all_project": "All projects",
+  "subsidies": "Subsidies",
+  "filter": "Filter",
+  "sum": "Sum",
+  "sum_value": "sum",
+  "request_period": "Application period",
+  "organizations": "Organizations",
+  "select_organizations": "Select organizations",
+  "select_category": "Select a category",
+  "status": {
+    "title": "Status",
+    "type": {
+      "in_progress": "In the process of verification",
+      "unknown": "Failed",
+      "accepted": "Applications are accepted",
+      "completed": "Project completed",
+      "started": "Started",
+      "cancelled": "Canceled"
+    }
+  },
+  "select_status": "Select status",
+  "region": "Region",
+  "select_region": "Choose region",
+  "city": "Area",
+  "select_city": "Select area",
+  "reset_filter": "Reset filters",
+  "project_status": "Project status",
+  "options_not_found": "No options found",
+  "enter_search": "Enter to search",
+  "projects_count": "{count} projects",
+  "sort": "Sort",
+  "more": "More details",
+  "show_all": "View all",
+  "info_detail_title": "Still have questions?",
+  "info_detail_text": "For more detailed information, contact us, our specialists will provide a consultation and answer all your questions",
+  "online_chat": "Online chat",
+  "project_announce_subtitle": "Our services can be used by both private and public organizations and individuals",
+  "result_of_project_title": "Results of completed projects",
+  "result_of_project_subtitle": "Empowering Communities through constructive engagement. Join us to make a difference today",
+  "results_project": {
+    "organizations": "organizations"
+  },
+  "provider": "Provider",
+  "nno": "NGO",
+  "resident_form": {
+    "label": {
+      "nno": "NGO name",
+      "reg_date": "Registration date",
+      "number": "Certificate number",
+      "destination": "Goals and objectives",
+      "address": "NGO address",
+      "fullname": "Full name of the head",
+      "phone": "Phone number",
+      "email": "Email",
+      "org_form": "Organizational and legal form",
+      "region": "Region",
+      "branch_count": "Number of branches",
+      "worker_count": "Number of employees",
+      "last_year_projects": "Number of projects implemented last year",
+      "actual_sum": "Amount spent on these projects",
+      "individual": "Individual",
+      "legale_entity": "Entity"
+    },
+    "placeholder": {
+      "nno": "Enter the name of the NGO",
+      "reg_date": "Registration date",
+      "number": "Certificate number",
+      "destination": "Goals and objectives",
+      "address": "NGO address",
+      "fullname": "Full name of the head",
+      "email": "Enter your email",
+      "org_form": "Legal form of organization",
+      "region": "Enter region",
+      "branch_count": "Number of branches",
+      "worker_count": "Number of employees",
+      "last_year_projects": "Quantity",
+      "actual_sum": "Sum",
+      "place_of_birth": "Select date"
+    }
+  },
+  "pagination": {
+    "prev": "Back",
+    "next": "Forward"
+  },
+  "socials": "Social projects",
+  "website": "Website",
+  "project_type": "Project type",
+  "type": "Type",
+  "project_sum": "Project amount",
+  "sharh_card": {
+    "title": "Leave your feedback through the platform ",
+    "subtitle": "You can leave your feedback about our projects on the Sharkh platform"
+  },
+  "terms_requirements": "Terms and requirements",
+  "attached_file": "Attached files",
+  "aspect_project": "Key aspects of the project",
+  "reporting_materials": "Reporting materials",
+  "get_project": "Get the project",
+  "check_project": "Have you checked out the project?",
+  "check_project_sub": "Hurry up to fill out an application for participation and send your best proposals for completing the project",
+  "contact_info": "Contact details",
+  "about_organization": "About the organization",
+  "find": "Found",
+  "show_less": "Hide",
+  "successfully_send": "Your request has been sent successfully",
+  "email_error": "Please enter a valid email",
+  "support_women_hero": {
+    "title1": "Balance between family and career:",
+    "description1": "Women share their strategies and successes in finding harmony",
+    "title2": "Opening up new horizons:",
+    "description2": "Women overcome stereotypes and achieve heights in career, science and art",
+    "title3": "Together - we are force:",
+    "description3": "Stories of solidarity and support that can change the world",
+    "title4": "Inspiring each other:",
+    "description4": "How a community of women encourages growth, confidence and self-expression."
+  },
+  "resident_tab": {
+    "about": "About",
+    "projects": "Projects",
+    "comments": "Comments Sharh",
+    "contacts": "Contacts"
+  },
+  "short_description_subsidies": "Welcome to the grants and subsidies announced by the fund under the Oliy Majlis. Apply for a grant or subsidy\n\n",
+  "about_company": "About the company",
+  "comment": "Comment Sharh",
+  "contact_name": "Contact",
+  "contact_information": "Contact information",
+  "all_categories": "All categories",
+  "all_statuses": "All statuses",
+  "event_parners": "Event partners",
+  "news_the_topic": "News about the topic",
+  "social_sites": {
+    "instagram": "Instagram",
+    "telegram": "Telegram",
+    "facebook": "Facebook"
+  },
+  "site_working_on_test_mode": "The site is operating in test mode"
+}

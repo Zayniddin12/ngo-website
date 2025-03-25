@@ -1,0 +1,429 @@
+{
+  "website_title": "NGO-milliy ijtimoiy himoya agentligi loyihalarining yagona reyestri",
+  "login": "Kirish",
+  "projects": "Loyihalar",
+  "residents": "Rezidentlar",
+  "support_women": "Ayollarni qo'llab-quvvatlash",
+  "support_short": "Qo'llab-quvvatlash",
+  "home": "Bosh sahifa",
+  "all_services": "Barcha xizmatlar",
+  "share_title": "Ulashish",
+  "support_female_gender": "Ayollarni qo'llab-quvvatlash",
+  "support_female_gender_text": "Aloqalarni mustahkamlang va o'zgarishlarni ilhomlantiring. Muhim daqiqalarni boshdan kechirish uchun birlashing",
+  "default_select": "Barcha yo'nalishlar",
+  "about_the_agency": "Agentlik haqida",
+  "print_out": "Chop etish",
+  "all_news": "Barcha yangiliklar",
+  "file": "Fayl",
+  "placeholders": {
+    "date_range": "kk.oo.yyyy-kk.oo.yyyy"
+  },
+  "download_btn": "Yuklash",
+  "copied": "Nusxa olindi",
+  "copy": "Nusxa olish",
+  "not_found_from_search": "Natijalar topilmadi",
+  "project_single_tab": {
+    "about": "Loyiha haqida ma'lumot",
+    "about_mobile": "Loyiha haqida",
+    "project_result": "Natijalar",
+    "participant": "Ishtirok etish uchun arizalar",
+    "participant_mobile": "Arizalar"
+  },
+  "social_projects": "Ijtimoiy loyihalar",
+  "application_submitted": "Arizani topshirdilar",
+  "start_project_time": "Loyiha boshlanish vaqti:",
+  "money_for_project": "Loyiha uchun summa:",
+  "source_of_budget": "Moliyalashtirish formati:",
+  "no_project_results_title": "Loyiha bajarilmoqda!",
+  "no_project_results_desc": "G'olib aniqlangandan va loyiha muvaffaqiyatli yakunlangandan so'ng, barcha natijalar hujjatlar va media hisobotlar shaklida ushbu sahifada ko'rsatiladi.",
+  "send_question_form": {
+    "title": "Agentlik direktoriga murojaat",
+    "subtitle": "Quyidagi shaklni to'ldiring va murojaatingizni agentligimiz direktoriga yuboring",
+    "name_input": {
+      "label": "Sizga qanday murojaat qilish kerak?",
+      "placeholder": "Ismingizni kiriting"
+    },
+    "phone_input": {
+      "label": "Telefon raqami"
+    },
+    "question_input": {
+      "label": "Savolingizni tasvirlab bering",
+      "placeholder": "Savolingizni kiriting"
+    },
+    "privacy": {
+      "text": "Ushbu so'rovni yuborish orqali siz {link}ga rozilik bildirasiz",
+      "link_text": "Ma'lumotlarni qayta ishlash shartlari"
+    },
+    "send": "Yuborish"
+  },
+  "no_project_yet": "Hozircha loyihalar yo'q",
+  "no_project_yet_appear": "Bu yerda ushbu kompaniya tomonidan bajarilgan loyihalar va ishlar namoyish etiladi",
+  "phone_num_list": "Ro'yxat raqami",
+  "bank_props": "Bank rekvizitlari",
+  "sharh_comment": "Sharhlar",
+  "no_comment_yet": "Hozircha sharhlar yo‘q",
+  "no_comment_yet_appear": "Hozircha sharhlar yo'q, agar mavjud bo'lsa, ular shu yerda paydo bo'ladi.",
+  "remained_time": "Arizalarni qabul qilish tugaguniga qadar qoldi:",
+  "date_application": "Topshirish sanasi",
+  "completion_time": "Loyihaning muddati:",
+  "resident_count": "Topildi: {count} rezidentlar",
+  "events_link": "Voqealar",
+  "hour": "oylar",
+  "category": "Kategoriya",
+  "more_resident_135": "Yana +135 rezident",
+  "grants": "Grantlar",
+  "subsides": "Subsidiyalar",
+  "mission_with": "Rivojlanish {mission_with_title} missiya",
+  "mission_about": "Bizning platformamiz har kim yaxshiroq dunyoni yaratishga hissa qo'shishi mumkin bo'lgan joy. Biz ijtimoiy tashabbuslarni amalga oshirish uchun qulay joy yaratib, odamlarning qalbi va ongini birlashtiramiz. Bu erda siz Ilhom, qo'llab-quvvatlash va g'oyalaringizni haqiqatga aylantirish imkoniyatini topasiz. Bizning iliq va do'stona jamoamizga xush kelibsiz, bu erda har bir qadam ijodiy o'zgarish sari qadamdir!",
+  "mission_with_title": "va mamlakatning ijtimoiy tashabbuslarini qo'llab-quvvatlash bizning asosiy",
+  "support_text": "Loyiha mamlakatda ijtimoiy tashabbuslarni rivojlantirish va qo'llab-quvvatlashga qaratilgan bo'lib, ijtimoiy hayotni yaxshilash va uning muammolarini hal qilishga qaratilgan loyihalarni muvaffaqiyatli amalga oshirish uchun zarur resurslar va yordam beradi.",
+  "our_services_title": "Biz qanday xizmatlarni taqdim etamiz?",
+  "our_residents_title": "Qanday qilib rezident bo'lish mumkin?",
+  "no_residents": "Rezidentlar yo'q",
+  "no_inetersted_resident": "Hozircha hech kim bu rezidentga qiziqish bildirmagan",
+  "no_interested_projects": "Hozircha hech kim bu loyihaga qiziqish bildirmagan",
+  "select_location": "Manzilni tanlang",
+  "our_services_subtitle": "Bizning xizmatlarimizdan ham xususiy, ham davlat tashkilotlari va shaxslar foydalanishi mumkin",
+  "our_residents_subtitle": "Bizning xizmatlarimizdan ham xususiy, ham davlat tashkilotlari va shaxslar foydalanishi mumkin",
+  "our_team_title": "Bizning jamoamiz",
+  "our_team_subtitle": "Platformani o'z sohasidagi tasdiqlangan mutaxassislar boshqaradi",
+  "partners_title": "Hamkorlar",
+  "partners_subtitle": "Bizning ishonchli hamkorlarimiz",
+  "contact_us": "Biz bilan bog'laning",
+  "contact_link": "Aloqa",
+  "social_projects": "Ijtimoiy loyihalar",
+  "events_link": "Tadbirlar",
+  "contact_us_description": "Biz bilan bog'lanish uchun aloqa ma'lumotlari",
+  "support": {
+    "women": "Keksa ayollarga yordam berish",
+    "contract": "Imtiyozli talabalar uchun shartnomalar",
+    "starter": "Ajam tadbirkorlar",
+    "psychological": "Psixologik yordam",
+    "credit": "Foizsiz kredit"
+  },
+  "started": "Boshlangan",
+  "completed": "Tugallangan",
+  "in_progress": "Amalga oshirish jarayonida",
+  "company_about": "\"IHMA\" barcha huquqlar himoyalangan, 2011 yil - {year}",
+  "company_about_main": "Orzular loyihaga aylanadigan joy: sizning ijtimoiy rivojlanish platformangiz! Biz har kim o'z hissasini qo'shishi mumkin bo'lgan jamiyatni yaratishga intilamiz",
+  "developed_by": "Ishlab chiqilgan",
+  "follow_news": "Bizning yangiliklarimizga obuna bo'ling",
+  "send_news_daily": "Biz har kuni yangiliklarni sizning pochtangizga yuboramiz",
+  "email": "Elektron pochta",
+  "enter_email": "Elektron pochtangizni kiriting",
+  "send": "Yuborish",
+  "address": "Manzil",
+  "event": {
+    "info": {
+      "date": "Sanasi",
+      "address": "Manzil"
+    },
+    "about": "Tadbir haqida",
+    "requirements": "Talablar",
+    "photos": "Fotoreportaj"
+  },
+  "contact_us_main": "Biz bilan bog'lanish uchun aloqa ma'lumotlari",
+  "support_phone": "Qo'llab-quvvatlash uchun telefon",
+  "events": {
+    "title": "Ijtimoiy tadbirlar",
+    "subtitle": "Aloqalarni mustahkamlang va o'zgarishlarni ilhomlantiring. Mazmunli daqiqalarni boshdan kechirish va uzoq muddatli ta'sirga erishish uchun birlashing",
+    "button": "Barcha tadbirlar",
+    "short_btn": "Tadbirlar"
+  },
+  "grand_and_subsidies": "Grantlar va subsidiyalar",
+  "news": {
+    "title": "Yangiliklar",
+    "subtitle": "Voqealardan xabardor bo'ling, voqealardan oldinda bo'ling: o'z vaqtida yangilanishlar va chuqur tahlil qilish uchun manbangiz. Bugungi dunyomizni shakllantiradigan hikoyalarni oching",
+    "button": "Barcha yangiliklar"
+  },
+  "platform_title": "Platforma rezidentlari",
+  "platform_description": "Bizning rezident hamjamiyatimizga qo'shiling va ijtimoiy loyihalaringizni muvaffaqiyatli amalga oshirish uchun resurslar, mentorlik yordami va hamfikr odamlar tarmog'idan eksklyuziv foydalanish imkoniyatiga ega bo'ling.",
+  "resident_with": "{date} dan beri rezident",
+  "project": "{count} ta loyiha",
+  "no_projects": "Loyihalar yo'q",
+  "ball": "{count} ball",
+  "feedback": "Qayta aloqa",
+  "reviews": {
+    "title": "Sharhlar",
+    "subtitle": "Tashkilotlar haqidagi sharhlarni ko'rishingiz mumkin"
+  },
+  "common_source": "Sharh qoldirdi: {ism}",
+  "appeal_to_the_director": "Direktorga murojaat",
+  "show_more": "Ko'proq ko'rsatish",
+  "place_empty": "Ishtirokchilar yo'q",
+  "all_empty": "Ushbu loyihaga hali hech kim qiziqish bildirmagan",
+  "in_progress": "Loyiha amalga oshirish jarayonida!",
+  "all_progress": "G'olib aniqlangandan va loyiha muvaffaqiyatli yakunlangandan so'ng, hujjatlar va media hisobotlari formatidagi barcha natijalar ushbu sahifada ko'rsatiladi.",
+  "total_requests": "Barcha murojaatlar",
+  "statistics": {
+    "title": "Statistika",
+    "subtitle": "Ishonch bilan axborot makonini boshqaring. Raqamlardan bilimga: ma'lumotlarni amaliy ma'lumotlarga aylantirish",
+    "tab": {
+      "statistics_info": "Axborot statistikasi",
+      "statistics_projects": "Loyihalar bo'yicha statistika"
+    },
+    "chart": {
+      "title": "Statistika",
+      "version_one": "Umumiy murojaatlar",
+      "version_two": "Boshpana Xizmatlari"
+    },
+    "section": {
+      "title": "Zo'ravonlik turlari"
+    },
+    "service": {
+      "title": "Xizmat ko'rsatuvchi",
+      "companies": "{count} kompaniyalari",
+      "all_residents": "Barcha rezidentlar",
+      "join_date": "{Sana} bilan rezident",
+      "items": {
+        "mental": "Aqliy",
+        "legal": "Huquqiy",
+        "medical": "Tibbiy",
+        "shelter": "Boshpana Xizmatlari",
+        "other": "Boshqalar"
+      }
+    },
+    "organs": "Davlat organlari",
+    "all_organs": "Jami davlat organlari",
+    "organs_count_title": "Ijtimoiy buyurtmalar bergan go soni",
+    "organizations": "Nodavlat notijorat tashkiloti",
+    "all_nno": "Jami NNT",
+    "nno_count_title": "Ijtimoiy buyurtmalar bergan NNTlar soni",
+    "social_projects": "Ijtimoiy loyihalar",
+    "sum_social_orders": "Ijtimoiy buyurtmalar miqdori",
+    "social_orders_count": "Ijtimoiy buyurtmalar miqdori",
+    "events_count": "Amalga oshirilgan tadbirlar soni",
+    "all_divide": "Qamrab olingan aholining umumiy soni",
+    "relativity": {
+      "title": "Nogironlar",
+      "count": "Nogironlar soni",
+      "service": "Nogironligi bo'lgan shaxslarga ko'rsatiladigan xizmatlar"
+    }
+  },
+  "hero_with": "Biz bilan {hero_with_title} loyihalar haqiqatga aylanmoqda",
+  "hero_with_title": "Ijtimoiy",
+  "hero_subtitle": "Orzular loyihaga aylanadigan joy: sizning ijtimoiy rivojlanish platformangiz! Biz har kim o'z hissasini qo'shishi mumkin bo'lgan jamiyatni yaratishga intilamiz.",
+  "become_resident": "Rezident bo'lish",
+  "get_support": "Qo'llab-quvvatlang",
+  "youth_with": "Yoshlarga oid {youth_with_title} biz bilan kuzating",
+  "youth_with_title": "Yangiliklar",
+  "become_volunteer": "Volontyor bo'ling",
+  "become_part_volunteer": "Volontyorlar safiga qo'shiling",
+  "no_data": {
+    "statistics": {
+      "title": "Statistika mavjud emas",
+      "subtitle": "Statistika hozircha mavjud emas. Iltimos, yana bir bor urinib ko'ring"
+    },
+    "about": {
+      "title": "Ma'lumot mavjud emas"
+    }
+  },
+  "footer": {
+    "menus": {
+      "title": "Asosiy"
+    }
+  },
+  "contact": {
+    "your_name": "Sizning ismingiz",
+    "enter_your_name": "Ismingizni kiriting",
+    "phone_number": "Telefon raqami",
+    "your_message": "Sizning xabaringiz",
+    "enter_your_message": "Xabaringizni kiriting",
+    "enter_email": "Elektron pochtangizni kiriting",
+    "email": "Elektron pochta",
+    "contact_us": "Bizga yozing",
+    "contact_us_text": "Tez orada siz bilan bog'lanamiz",
+    "contact_us_title": "Biz bilan bog'lanish uchun zarur ma'lumotlar",
+    "our_address": "Bizning ofisimiz manzili"
+  },
+  "org": {
+    "title": "Davlat tashkilotlari",
+    "subtitle": "Loyihalarni amalga oshirishda ishonchli hamkorlarimiz bo'ling.",
+    "btn_text": "To'liq ro'yxat"
+  },
+  "need_help": "Sizga yordam kerakmi?",
+  "need_help_text": "Qo'llab-quvvatlash xizmati orqali har qanday savol yoki taklif bilan biz bilan bog'laning",
+  "call_us": "Qo'llab-quvvatlash uchun telefon",
+  "contact_with_us": "Biz bilan bog'laning",
+  "about_us_btn": "Biz haqimizda ko'proq",
+  "error_title": "Yo'q, nimadir noto'g'ri ketdi!",
+  "error_subtitle": "Biz xususiy va tijorat mijozlariga professional xizmatlarni taqdim etamiz.",
+  "back_home": "Uyga qaytish",
+  "public_offering": "Ommaviy taklif",
+  "legal_offer": "Huquqiy taklif",
+  "terms_of_agreement": "Shartnoma shartlari",
+  "documents": "Hujjatlar",
+  "header": {
+    "phone": "+998 71 234 56 78",
+    "email": "Elektron pochta"
+  },
+  "page": {
+    "support_women": {
+      "hero_title": "Quvvat va ilhom: Hayotning {matn}",
+      "hero_title_slice": "Ayollarni har tomonlama qo'llab-quvvatlash",
+      "statistics": "Muhtoj ayollarga yordam ko'rsatish bo'yicha statistika",
+      "organizations": "Muhtoj ayollarga yordam ko'rsatuvchi tashkilotlar"
+    },
+    "project": {
+      "title": "Loyihalar",
+      "similar_projects": "Shunga o'xshash loyihalar"
+    },
+    "resident": {
+      "title": "Rezidentlar",
+      "singleTitle": "Boshqa voqealar"
+    },
+    "subsidies": {
+      "title": "Barcha loyihalar"
+    },
+    "grants": {
+      "sum": "Grant miqdori:",
+      "date": "Tugash muddati"
+    }
+  },
+  "our_activities_title": "Bizning harakatlarimiz raqamlarda",
+  "our_activities_subtitle": "Bajarilgan ishlarning ba'zi statistik ma'lumotlari",
+  "project_announce_title": "Loyiha e'lonlari",
+  "all_project": "Barcha loyihalar",
+  "subsidies": "Subsidiyalar",
+  "filter": "Filtr",
+  "sum": "Summa",
+  "sum_value": "So'm",
+  "request_period": "Arizalarni qabul qilish muddati",
+  "organizations": "Tashkilotlar",
+  "select_organizations": "Tashkilotlarni tanlang",
+  "select_category": "Toifani tanlang",
+  "status": {
+    "title": "Holati",
+    "type": {
+      "in_progress": "Tekshirish jarayonida",
+      "unknown": "Muvaffaqiyatsiz",
+      "accepted": "Arizalar qabul qilinadi",
+      "completed": "Loyiha yakunlandi",
+      "started": "Boshlandi",
+      "cancelled": "Bekor qilindi"
+    }
+  },
+  "select_status": "Holatni tanlang",
+  "region": "Mintaqa",
+  "select_region": "Mintaqani tanlang",
+  "city": "Tuman",
+  "select_city": "Tumanni tanlang",
+  "reset_filter": "Filtrlarni tiklash",
+  "project_status": "Loyiha holati",
+  "options_not_found": "Variantlar topilmadi",
+  "enter_search": "Qidiruv uchun kiriting",
+  "projects_count": "{count} loyihalari",
+  "sort": "Saralash",
+  "more": "Batafsil",
+  "show_all": "Hammasini ko'rish",
+  "info_detail_title": "Yana savollaringiz bormi?",
+  "info_detail_text": "Batafsil ma'lumot uchun biz bilan bog'laning, bizning mutaxassislarimiz maslahat beradi va barcha savollaringizga javob beradi",
+  "online_chat": "Onlayn suhbat",
+  "project_announce_subtitle": "Xizmatlarimizdan ham xususiy, ham davlat tashkilotlari va jismoniy shaxslar foydalanishi mumkin",
+  "result_of_project_title": "Tugallangan loyihalar natijalari",
+  "result_of_project_subtitle": "Konstruktiv ishtirok etish orqali jamoalarni kuchaytirish. Bugun o'zgarishlar qilish uchun bizga qo'shiling",
+  "results_project": {
+    "organizations": "Tashkilotlar"
+  },
+  "provider": "Provayder",
+  "nno": "NNT",
+  "resident_form": {
+    "label": {
+      "nno": "NNT nomi",
+      "reg_date": "Ro'yxatga olingan sana",
+      "number": "Sertifikat raqami",
+      "destination": "Maqsad va vazifalar",
+      "address": "NNT manzili",
+      "fullname": "Boshning to'liq ismi",
+      "phone": "Telefon raqami",
+      "email": "Elektron pochta",
+      "org_form": "Tashkiliy-huquqiy forma",
+      "region": "Mintaqa",
+      "branch_count": "Filiallar soni",
+      "worker_count": "Xodimlar soni",
+      "last_year_projects": "O'tgan yili amalga oshirilgan loyihalar soni",
+      "actual_sum": "Ushbu loyihalar uchun sarflangan mablag'lar",
+      "individual": "Jismoniy shaxs",
+      "legale_entity": "Yuridik shaxs"
+    },
+    "placeholder": {
+      "nno": "NNT nomini kiriting",
+      "reg_date": "Ro'yxatga olingan sana",
+      "number": "Sertifikat raqami",
+      "destination": "Maqsad va vazifalar",
+      "address": "NNT manzili",
+      "fullname": "Boshning to'liq ismi",
+      "email": "Elektron pochtangizni kiriting",
+      "org_form": "Tashkilotning huquqiy shakli",
+      "region": "Mintaqani kiriting",
+      "branch_count": "Filiallar soni",
+      "worker_count": "Xodimlar soni",
+      "last_year_projects": "Miqdor",
+      "actual_sum": "Summa",
+      "place_of_birth": "Sanani tanlang"
+    }
+  },
+  "pagination": {
+    "prev": "Orqaga",
+    "next": "Oldinga"
+  },
+  "socials": "Ijtimoiy loyihalar",
+  "website": "Veb-sayt",
+  "project_type": "Loyiha turi",
+  "type": "Tur",
+  "project_sum": "Loyiha miqdori",
+  "sharh_card": {
+    "title": "Platforma orqali fikr-mulohazalaringizni qoldiring",
+    "subtitle": "Loyihalarimiz haqida fikr-mulohazalaringizni Sharx platformasida qoldirishingiz mumkin"
+  },
+  "terms_requirements": "Shartlar va talablar",
+  "attached_file": "Biriktirilgan fayllar",
+  "aspect_project": "Loyihaning asosiy jihatlari",
+  "reporting_materials": "Hisobot materiallari",
+  "get_project": "Loyihani oling",
+  "check_project": "Loyihani ko'rib chiqdingizmi?",
+  "check_project_sub": "Ishtirok etish uchun ariza to'ldirishga shoshiling va loyihani yakunlash bo'yicha eng yaxshi takliflaringizni yuboring",
+  "contact_info": "Aloqa ma'lumotlari",
+  "about_organization": "Tashkilot haqida",
+  "find": "Topildi",
+  "show_less": "Yashirish",
+  "successfully_send": "Sizning so'rovingiz muvaffaqiyatli yuborildi",
+  "email_error": "Yaroqli elektron pochta manzilini kiriting",
+  "support_women_hero": {
+    "title1": "Oila va karyera o'rtasidagi muvozanat:",
+    "description1": "Ayollar uyg'unlikni topishda o'z strategiyalari va muvaffaqiyatlari bilan o'rtoqlashadilar",
+    "title2": "Yangi ufqlarni ochish:",
+    "description2": "Ayollar stereotiplarni yengib, karyera, fan va san'atdagi cho'qqilarni zabt etadilar",
+    "title3": "Biz birgalikda kuchmiz:",
+    "description3": "Dunyoni o'zgartirishi mumkin bo'lgan birdamlik va qo'llab-quvvatlash hikoyalari",
+    "title4": "Bir-birini ilhomlantirish:",
+    "description4": "Qanday qilib ayollar jamoasi o'sishni, ishonchni va o'zini namoyon qilishni rag'batlantiradi."
+  },
+  "resident_tab": {
+    "about": "Kompaniya haqida",
+    "projects": "Loyihalar",
+    "comments": "Sharh",
+    "contacts": "Aloqa"
+  },
+  "short_description_subsidies": "Oliy Majlis huzuridagi jamg‘arma tomonidan e’lon qilingan grant va subsidiyalarga xush kelibsiz. Ariza topshirish orqali grant yoki subsidiya olish imkoniyatiga ega bo'ling",
+  "about_company": "Kompaniya haqida",
+  "comment": "Sharh",
+  "contact_name": "Aloqa",
+  "contact_information": "Aloqa ma'lumotlari",
+  "all_categories": "Barcha kategoriyalar",
+  "all_statuses": "Barcha holatlar",
+  "all_regions": "Barcha mintaqalar",
+  "all_districts": "Barcha tumanlar",
+  "sum_single": "So'm",
+  "event_parners": "Tadbir hamkorlari",
+  "news_the_topic": "Mavzu bo'yicha yangiliklar",
+  "download_btn": "Yuklab olish",
+  "company_address": "Kompaniya manzili",
+  "props": "Ma'lumotlar",
+  "social_sites": {
+    "instagram": "Instagram",
+    "telegram": "Telegram",
+    "facebook": "Facebook"
+  },
+  "site_working_on_test_mode": "Sayt test rejimida ishlamoqda"
+}

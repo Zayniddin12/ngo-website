@@ -1,0 +1,32 @@
+before_script:
+  - docker login $CI_REGISTRY --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD
+
+stages:
+  - build
+  - deploy
+
+build_image_prod:
+  stage: build
+  image: registry.uicgroup.tech/devops/docker:dind
+  before_script:
+    - docker login $CI_REGISTRY --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD
+  script:
+    - make vars-input KEYS=$KEYS
+    - make build-image TAG=$CI_PIPELINE_IID SERVICE_NAME=$CI_PROJECT_NAME PROJECT_NAME=$CI_PROJECT_NAMESPACE REGISTRY=$CI_REGISTRY ENV_TAG=latest
+    - make push-image TAG=$CI_PIPELINE_IID SERVICE_NAME=$CI_PROJECT_NAME PROJECT_NAME=$CI_PROJECT_NAMESPACE REGISTRY=$CI_REGISTRY ENV_TAG=latest
+  only:
+    - master
+
+deploy:
+  stage: deploy
+  image: registry.uicgroup.tech/devops/docker:1.0
+  before_script:
+    - docker login $CI_REGISTRY --username $CI_REGISTRY_USER --password $CI_REGISTRY_PASSWORD
+  script:
+    - docker pull registry.uicgroup.tech/ngo/ngo-website:$CI_PIPELINE_IID
+    - docker rm -f ngo-website
+    - docker run --name ngo-website -d -p 3100:3100 --restart always registry.uicgroup.tech/ngo/ngo-website:$CI_PIPELINE_IID
+  only:
+    - master
+  tags: 
+    - ihma
